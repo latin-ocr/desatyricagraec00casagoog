@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./desatyricagraec00casagoog_0260.png"; bbox 0 0 2520 4576; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 179 1292 1158 1489">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 179 1292 1158 1489">
+     <span class='ocr_line' id='line_1_1' title="bbox 179 1292 1158 1489; baseline 0 -44"><span class='ocrx_word' id='word_1_1' title='bbox 179 1296 534 1447; x_wconf 91' lang='lat' dir='ltr'><strong>ISAACI</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 544 1292 1158 1489; x_wconf 89' lang='lat' dir='ltr'><strong>CASAVBONI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 53 1725 1214 1976">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 53 1725 1214 1976">
+     <span class='ocr_line' id='line_1_2' title="bbox 53 1725 1214 1976; baseline 0 -8"><span class='ocrx_word' id='word_1_3' title='bbox 53 1725 1214 1976; x_wconf 86' lang='lat' dir='ltr'><strong>SATYRICA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 249 2063 983 2249">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 249 2063 983 2249">
+     <span class='ocr_line' id='line_1_3' title="bbox 249 2063 983 2249; baseline -0.003 -71.786"><span class='ocrx_word' id='word_1_4' title='bbox 249 2063 758 2249; x_wconf 85' lang='lat' dir='ltr'><strong>GRAECORVM</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 792 2070 983 2175; x_wconf 87' lang='lat' dir='ltr'><strong>POESI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 220 2587 1209 2834">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 15 2569 1209 2834">
+     <span class='ocr_line' id='line_1_4' title="bbox 220 2587 1209 2834; baseline 0 -39"><span class='ocrx_word' id='word_1_6' title='bbox 220 2639 536 2834; x_wconf 16' lang='lat' dir='ltr'><strong>.me</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 577 2587 1009 2796; x_wconf 73' lang='lat' dir='ltr'>SECVNDVS.</span> <span class='ocrx_word' id='word_1_8' title='bbox 1128 2646 1130 2651; x_wconf 80' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1200 2614 1209 2828; x_wconf 74' lang='grc' dir='ltr'><strong><em>ζ</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1264 4576">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1264 4576">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1264 4576; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1264 4576; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
